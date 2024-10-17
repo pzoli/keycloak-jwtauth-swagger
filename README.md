@@ -4,10 +4,11 @@ This is a homework project for Keycloak JWT authentication for [forras-admin](ht
 
 ## Used technologies
 
-- OpenJDK17
-- PostgreSQL
-- SpringBoot
-- Keycloak
+- OpenJDK 17
+- PostgreSQL 16
+- SpringBoot 3.3.4
+- Keycloak 26.0.0
+- IntelliJ IDEA Ultimate
 
 ## Setup
 
