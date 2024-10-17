@@ -2,6 +2,13 @@
 
 This is a homework project for Keycloak JWT authentication for [forras-admin](https://github.com/pzoli/forras-admin) v2 project
 
+## Used technologies
+
+- OpenJDK17
+- PostgreSQL
+- SpringBoot
+- Keycloak
+
 ## Setup
 
 Create forrashaz database on localhost.
